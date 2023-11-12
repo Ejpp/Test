@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Lumaria",
+		"leaderName": "Lumi",
+		"adjective": ["lumari"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "Hello!",
+		
+		"declaringWar": "I-I declare war, sadly..",
+		"attacked": "You declare war? I was hoping for diplomatic relations, but I guess not...",
+		"defeated": "We surrender, please don't hurt us!",
+		"introduction": "Hello..!",
+		
+		"neutralHello": "H-Hello!",
+		"neutralLetsHearIt": ["Go on...","Go ahead...","You can begin!"],
+		"neutralNo": ["No thanks, we don't want that...","No!","I decline..."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "... what is it?",
+		"hateLetsHearIt": ["JUST SAY IT ALREADY!","...","Just make this quick..."],
+		"hateNo": ["What? No!","We aren't agreeing, get away from us!","... What the hell...?"],
+		"hateYes": ["I guess so.","Whatever...","Fine, J-Just get away already!"],
+		
+		"afterPeace": "I enjoy peace, and don't want war...",
+		"tradeRequest": "Trade",
+
+		"outerColor": [16,16,16],
+		"innerColor": [33, 54, 117],
+		"unique": "MANIFEST_DESTINY",
+		"cities":  ["Fayside","Lunmouth","Griffinbrough Hills","Lexingdol","East Westness","New Frostdale","Winterview","Bellview","Backborough","Kingfield","Foxford","Farmingford","Sageford","Wingkarta","Pailland","Redworth","Farmingview","Duckfolk","East Northfolk","Medham","Goldburg","Hamton","Redwich","Seaworth","Costsside","Casterbrough","Hollowford Park","Wheelbury","East Rockdale","Greenburgh","Prograd","North Summerfolk","Stoneside","Saltland","Sandhampton","Springport","Lunawich","Westbury","Richton","Queensmouth","West Cruxpool","Fairport","Goldham","Fishton","Great Hallmouth","Farmview","Springstead","Pailton","New Bellhampton","Chatworth","Applestead","North Kettledol","South Julford","Rockkarta","Hallview","Winville","Farminggrad","Eggdale","Southingworth","Kettleton","North Ashley","Emercaster","Auland","Frostham","Hamport","Duckburg","Baypool","Casterview Beach","Starview","Casterland","Mansbury","Postcester","Kettleham","Hapton","Westley","Hollowford","Lunastead","Goldcaster","North Waltfield","Hogley","Weirport","Cloudcester","Sayburg","Bridgehampton","Richstead Park","Sayham","Bayland","Dodgeland","West Saystead","Cloudburg","Strongwich","Fairburgh","Stoneley","Fairburg","Southingpool","Seaness","Salttown","Proness","Queenskarta","Massview"]
+	}
+]
